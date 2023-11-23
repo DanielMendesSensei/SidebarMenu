@@ -3,15 +3,13 @@
 
 ### Version 1.0, includes animations, responsive screen for different devices📲
 
-## The website will be ready soon!
+## The website is ready! Tap the image below or this [link](https://danielmendessensei.github.io/SidebarMenu/) to access
 
-<!-- # Screenshots:
-[![Screenshot](assets/img/Presentation.png 'Tap the image to access')](https://danielmendessensei.github.io/AnimatedLogin/)  
+# Screenshots:
+[![Screenshot](assets/img/1.png 'Tap the image to access')](https://danielmendessensei.github.io/SidebarMenu/)  
 
-[![Screenshot](assets/img/Presentation2.png 'Tap the image to access')](https://danielmendessensei.github.io/AnimatedLogin/) 
+[![Screenshot](assets/img/2.png 'Tap the image to access')](https://danielmendessensei.github.io/SidebarMenu/) 
 
-[![Screenshot](assets/img/Presentation3.png 'Tap the image to access')](https://danielmendessensei.github.io/AnimatedLogin/) 
+[![Screenshot](assets/img/4.png 'Tap the image to access')]https://danielmendessensei.github.io/SidebarMenu/) 
 
-[![Screenshot](assets/img/Presentation4.png 'Tap the image to access')](https://danielmendessensei.github.io/AnimatedLogin/) 
-
-[![Screenshot](assets/img/Presentation5.png 'Tap the image to access')](https://danielmendessensei.github.io/AnimatedLogin/)  -->
+[![Screenshot](assets/img/3.png 'Tap the image to access')](https://danielmendessensei.github.io/SidebarMenu/) 
